@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-tab-bar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zijievv/swiftui-tab-bar.git",
+      "state" : {
+        "revision" : "ea2d605173e0fb2d101509f413a96953ac40e979",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
